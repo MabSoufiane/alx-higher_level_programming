@@ -1,4 +1,6 @@
- Rectangle class
+#!/usr/bin/python3
+"""
+DefinesRectangle class
 """
 
 
